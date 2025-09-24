@@ -15,15 +15,13 @@ Una aplicación web para organizar y gestionar un intercambio de regalos de Amig
 
 ## Introducción
 
-Este proyecto es una aplicación web diseñada para facilitar la organización de un intercambio de regalos de Amigo Secreto. Permite a los usuarios crear grupos, invitar a participantes y asignar automáticamente los amigos secretos.
+Este proyecto es una aplicación web diseñada para facilitar la organización de un intercambio de regalos de Amigo Secreto.
 
 ## Características
 
 - Interfaz fácil de usar
-- Creación y gestión de grupos
 - Invitación de participantes
 - Asignación automática de amigos secretos
-- (Añade más características a medida que las desarrolles)
 
 ## Empezando
 
@@ -52,17 +50,3 @@ Sigue estas instrucciones para poner en marcha el proyecto en tu máquina local.
 1. Abre el archivo `index.html` en tu navegador.
 2. Sigue las instrucciones en pantalla para crear un grupo, añadir participantes y asignar amigos secretos.
 3. (Añade instrucciones de uso más detalladas según sea necesario)
-
-## Contribución
-
-¡Las contribuciones son bienvenidas! Aquí te mostramos cómo puedes contribuir:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tu función o corrección de errores.
-3. Realiza tus cambios y commitea con mensajes descriptivos.
-4. Sube tus cambios a tu fork.
-5. Envía un pull request.
-
-## Licencia
-
-(Añade la información de la licencia aquí. Si no tienes una licencia, considera añadir una como MIT o Apache 2.0)
